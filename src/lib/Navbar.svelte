@@ -10,39 +10,30 @@
       <!-- Logo -->
       <div class="flex-shrink-0 flex items-center">
         <a href="/" class="flex items-center gap-2">
-          <!-- Passionfroot Logo Icon -->
-          <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="#191817"/>
-            <path d="M16 26C21.5228 26 26 21.5228 26 16C26 10.4772 21.5228 6 16 6C10.4772 6 6 10.4772 6 16C6 21.5228 10.4772 26 16 26Z" fill="#FF5D2A"/>
-            <path d="M19.5 13.5L12.5 18.5" stroke="white" stroke-width="2" stroke-linecap="round"/>
-            <path d="M12.5 13.5L19.5 18.5" stroke="white" stroke-width="2" stroke-linecap="round"/>
+          <!-- Bronn Logo Icon -->
+          <svg width="32" height="32" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100" height="100" fill="#0F0D0A"/>
+            <path d="M79.867 32.4918C82.711 35.3357 82.711 39.9467 79.867 42.7907L74.7175 47.9402L70.5979 43.8206L75.7474 38.6711C76.3162 38.1023 76.3162 37.1801 75.7474 36.6113C75.1786 36.0425 74.2564 36.0425 73.6876 36.6113L63.3887 46.9103C60.5447 49.7543 55.9337 49.7543 53.0897 46.9103C50.2457 44.0663 50.2457 39.4553 53.0897 36.6113L63.3887 26.3124C63.9575 25.7436 63.9575 24.8214 63.3887 24.2526C62.8199 23.6838 61.8977 23.6838 61.3289 24.2526L56.1794 29.4021L52.0598 25.2825L57.2093 20.133C60.0533 17.289 64.6643 17.289 67.5083 20.133C70.3522 22.977 70.3522 27.588 67.5083 30.432L57.2093 40.7309C56.6405 41.2997 56.6405 42.2219 57.2093 42.7907C57.7781 43.3595 58.7003 43.3595 59.2691 42.7907L69.568 32.4918C72.412 29.6478 77.023 29.6478 79.867 32.4918Z" fill="#EEECE9"/>
+            <path d="M67.5082 79.867C64.6643 82.711 60.0533 82.711 57.2093 79.867L52.0598 74.7175L56.1794 70.5979L61.3289 75.7474C61.8977 76.3162 62.8199 76.3162 63.3887 75.7474C63.9575 75.1786 63.9575 74.2564 63.3887 73.6876L53.0897 63.3887C50.2457 60.5447 50.2457 55.9337 53.0897 53.0897C55.9337 50.2457 60.5447 50.2457 63.3887 53.0897L73.6876 63.3887C74.2564 63.9575 75.1786 63.9575 75.7474 63.3887C76.3162 62.8199 76.3162 61.8977 75.7474 61.3289L70.5979 56.1794L74.7175 52.0598L79.867 57.2093C82.711 60.0533 82.711 64.6643 79.867 67.5083C77.023 70.3522 72.412 70.3522 69.568 67.5083L59.2691 57.2093C58.7003 56.6405 57.7781 56.6405 57.2093 57.2093C56.6405 57.7781 56.6405 58.7003 57.2093 59.2691L67.5082 69.568C70.3522 72.412 70.3522 77.023 67.5082 79.867Z" fill="#EEECE9"/>
+            <path d="M20.133 67.5082C17.289 64.6643 17.289 60.0533 20.133 57.2093L25.2825 52.0598L29.4021 56.1794L24.2526 61.3289C23.6838 61.8977 23.6838 62.8199 24.2526 63.3887C24.8214 63.9575 25.7436 63.9575 26.3124 63.3887L36.6113 53.0897C39.4553 50.2457 44.0663 50.2457 46.9103 53.0897C49.7543 55.9337 49.7543 60.5447 46.9103 63.3887L36.6113 73.6876C36.0425 74.2564 36.0425 75.1786 36.6113 75.7474C37.1801 76.3162 38.1023 76.3162 38.6711 75.7474L43.8206 70.5979L47.9402 74.7175L42.7907 79.867C39.9467 82.711 35.3357 82.711 32.4917 79.867C29.6478 77.023 29.6478 72.412 32.4918 69.568L42.7907 59.2691C43.3595 58.7003 43.3595 57.7781 42.7907 57.2093C42.2219 56.6405 41.2997 56.6405 40.7309 57.2093L30.432 67.5082C27.588 70.3522 22.977 70.3522 20.133 67.5082Z" fill="#EEECE9"/>
+            <path d="M32.4918 20.133C35.3357 17.289 39.9467 17.289 42.7907 20.133L47.9402 25.2825L43.8206 29.4021L38.6711 24.2526C38.1023 23.6838 37.1801 23.6838 36.6113 24.2526C36.0425 24.8214 36.0425 25.7436 36.6113 26.3124L46.9103 36.6113C49.7543 39.4553 49.7543 44.0663 46.9103 46.9103C44.0663 49.7543 39.4553 49.7543 36.6113 46.9103L26.3124 36.6113C25.7436 36.0425 24.8214 36.0425 24.2526 36.6113C23.6838 37.1801 23.6838 38.1023 24.2526 38.6711L29.4021 43.8206L25.2825 47.9402L20.133 42.7907C17.289 39.9467 17.289 35.3357 20.133 32.4918C22.977 29.6478 27.588 29.6478 30.432 32.4918L40.7309 42.7907C41.2997 43.3595 42.2219 43.3595 42.7907 42.7907C43.3595 42.2219 43.3595 41.2997 42.7907 40.7309L32.4918 30.432C29.6478 27.588 29.6478 22.977 32.4918 20.133Z" fill="#EEECE9"/>
           </svg>
-          <span class="font-bold text-xl tracking-tight">passionfroot</span>
+          <span class="font-bold text-xl tracking-tight">Bronn</span>
         </a>
       </div>
 
       <!-- Desktop Navigation -->
       <div class="hidden md:flex items-center space-x-8">
-        <div class="relative group">
-          <button class="flex items-center gap-1 text-sm font-medium hover:text-orange-brand transition-colors">
-            For Brands
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-          </button>
-        </div>
-        <div class="relative group">
-          <button class="flex items-center gap-1 text-sm font-medium hover:text-orange-brand transition-colors">
-            For Creators
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-          </button>
-        </div>
+        <a href="#services" class="text-sm font-medium hover:text-primary-600 transition-colors">Services</a>
+        <a href="#how-it-works" class="text-sm font-medium hover:text-primary-600 transition-colors">How It Works</a>
+        <a href="#stories" class="text-sm font-medium hover:text-primary-600 transition-colors">Stories</a>
       </div>
 
       <!-- Right Side -->
       <div class="hidden md:flex items-center space-x-6">
-        <a href="#" class="text-sm font-medium hover:text-orange-brand transition-colors">About</a>
-        <a href="#" class="text-sm font-medium hover:text-orange-brand transition-colors">Careers</a>
-        <a href="#" class="text-sm font-medium hover:text-orange-brand transition-colors">Login</a>
-        <Button href="#" className="!py-2 !px-4 !text-sm">Get access &rarr;</Button>
+        <a href="#about" class="text-sm font-medium hover:text-primary-600 transition-colors">About</a>
+        <a href="#careers" class="text-sm font-medium hover:text-primary-600 transition-colors">Careers</a>
+        <Button href="#contact" className="!py-2 !px-4 !text-sm">Get Started</Button>
       </div>
 
       <!-- Mobile menu button -->
